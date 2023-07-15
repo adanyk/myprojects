@@ -1,4 +1,5 @@
 # myprojects
+Some small projects made during my first academic year.
 
 1 Gomoku:
   - file: gomoku.c
